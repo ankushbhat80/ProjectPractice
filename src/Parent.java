@@ -1,5 +1,6 @@
 
 public class Parent {
+	//Parent constructor
 	Parent(){
 		System.out.println("THis inside const of parent:"+this);
 	}
