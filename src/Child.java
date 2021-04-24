@@ -2,7 +2,7 @@
 public class Child extends Parent{
 	
 	
-	
+	//Child class
 	public Child() {
 		System.out.println("This inside cons of Child:"+this);
 	}
