@@ -1,4 +1,4 @@
-//Test class 1
+//Test Class
 public class TestClass1 {
 
 	public static void main(String[] args) {
