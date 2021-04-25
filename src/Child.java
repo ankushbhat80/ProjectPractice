@@ -10,6 +10,8 @@ public class Child extends Parent{
 		//super.run();
 		System.out.println("Child run"+this);
 	}*/
+	
+	
 
 	public static void main(String[] args) {
 		Parent p = new Parent();
