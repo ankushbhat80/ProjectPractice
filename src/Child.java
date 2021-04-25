@@ -15,6 +15,7 @@ public class Child extends Parent{
 		Parent p = new Parent();
 		Child c = new Child();
 		c.start();
+		
 		p.start();
 		
 
